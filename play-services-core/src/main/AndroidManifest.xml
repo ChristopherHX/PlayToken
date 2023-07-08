@@ -16,7 +16,7 @@
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.mgoogle.android.gms">
+    package="io.github.christopherhx.playtoken">
 
     <permission
         android:name="com.mgoogle.android.c2dm.permission.RECEIVE"
